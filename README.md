@@ -4,7 +4,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=GATHARA+XTECH+TEAM+;KEEP+USING+RAP-POPKID+MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=GATHARA+XKIRIMUNGE×PROJECT+;KEEP+USING+RAP-POPKID+MD" alt="Typing SVG" /></a>
   </p>
 
 
