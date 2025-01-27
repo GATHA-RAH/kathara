@@ -1,29 +1,27 @@
-{
-  "name": "RAP-POPKID",
-  "description": "A project repository for RAP-POPKID.",
-  "repository": "https://github.com/GATHARA-POPKID/RAP-POPKID.git",
-  "logo": "",
-  "keywords": ["rap", "popkid", "music", "entertainment"],
-  "scripts": {
-    "start": "node index.js",
-    "build": "npm run build",
-    "test": "npm test"
+"name": "RAP-POPKID",
+"description": "A project repository for RAP-POPKID.",
+"repository": "https://github.com/GATHARA-POPKID/RAP-POPKID.git",
+"logo": "",
+"keywords": ["rap", "popkid", "music", "entertainment"],
+"scripts": {
+  "start": "node index.js",
+  "build": "npm run build",
+  "test": "npm test"
+},
+"env": {
+  "NODE_ENV": {
+    "description": "Set to 'production' for production environment.",
+    "required": true
   },
-  "env": {
-    "NODE_ENV": {
-      "description": "Set to 'production' for production environment.",
-      "required": true
-    },
-    "PORT": {
-      "description": "The port on which the app runs.",
-      "value": "3000"
-    }
-  },
-  "addons": [],
-  "formation": {
-    "web": {
-      "quantity": 1,
-      "size": "standard-1x"
-    }
+  "PORT": {
+    "description": "The port on which the app runs.",
+    "value": "3000"
+  }
+},
+"addons": [],
+"formation": {
+  "web": {
+    "quantity": 1,
+    "size": "standard-1x"
   }
 }
