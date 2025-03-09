@@ -1,8 +1,8 @@
-"name": "RAP-POPKID",
-"description": "A project repository for RAP-POPKID.",
-"repository": "https://github.com/GATHARA-POPKID/RAP-POPKID.git",
+"name": "Kathara",
+"description": "A project repository for Kathara.",
+"repository": "https://github.com/GATHA-RAH/kathara",
 "logo": "",
-"keywords": ["rap", "popkid", "music", "entertainment"],
+"keywords": ["kathara", "popkid", "music", "entertainment"],
 "scripts": {
   "start": "node index.js",
   "build": "npm run build",
